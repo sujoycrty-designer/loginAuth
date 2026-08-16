@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/login";
+const API_URL = "https://loginauth-viih.onrender.com/api/login";
 
 const form = document.getElementById("login-form");
 const messageEl = document.getElementById("message");
